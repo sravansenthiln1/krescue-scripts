@@ -12,7 +12,7 @@ Fedora is a Linux distribution developed by the community-supported
 Fedora Project which is sponsored primarily by Red Hat, a subsidiary of
 IBM, with additional support from other companies.
 
-    REL= 38-1.6 | 37-1.7
+    REL= 39-1.5 | 38-1.6 | 37-1.7
     TYPES=Server | Workstation
 " #DESCRIPTION_END
 
