@@ -84,8 +84,8 @@ TITLE="Fedora Linux $REL installation for: $BOARD ..."
     REL=38-1.6
     dialog --title "$TITLE" --menu \
     "Select fedora Release:" 0 0 0 \
-    "38-1.6" "" \
-    "37-1.7" "" \
+    "40-1.14" "" \
+    "39-1.5" "" \
     2>$GUI_SEL || exit 1
     REL=$(cat $GUI_SEL 2>/dev/null)
 
